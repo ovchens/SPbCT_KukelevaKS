@@ -1,6 +1,5 @@
-﻿
-#include <iostream>
-//#include <string>
+﻿#include <iostream>
+
 int main(int argc, char* argv[])
 {
     FILE* ptrFile = fopen(argv[1], "r");
