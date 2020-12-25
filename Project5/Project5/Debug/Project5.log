@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\karis\source\repos\Project5\Project5\MyForm1.h(247,12): warning C4101: j: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project5.vcxproj -> C:\Users\karis\source\repos\Project5\Debug\Project5.exe

@@ -1,0 +1,4 @@
+C:\Users\karis\source\repos\Project5\Project5\Debug\Project5.vcxprojAssemblyReference.cache
+C:\Users\karis\source\repos\Project5\Project5\Debug\Project5.MyForm.resources
+C:\Users\karis\source\repos\Project5\Project5\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\karis\source\repos\Project5\Project5\Debug\Project5.MyForm1.resources
